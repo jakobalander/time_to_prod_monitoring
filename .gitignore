@@ -1,0 +1,8 @@
+articleId
+chromedriver
+chromedriver_linux64.zip
+chrome-profile
+errorShots/
+node_modules/
+package-log.json
+selenium-server-standalone-3.5.3.jar
